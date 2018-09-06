@@ -1,0 +1,25 @@
+{
+  "name": "d3-react",
+  "version": "1.0.0",
+  "description": "D3 in React examples",
+  "keywords": [
+    "react-d3",
+    "react"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "d3": "latest",
+    "emotion": "9.2.8",
+    "react": "16.4.2",
+    "react-dom": "16.4.2",
+    "react-emotion": "9.2.8",
+    "react-scripts": "1.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
